@@ -1,0 +1,5 @@
+discord.py==1.7.3
+colorama
+pypresence==4.2.1
+rich
+discord==1.7.3
